@@ -1,0 +1,9 @@
+*
+!.gitignore
+!Makefile
+!acl_natbib.bst
+!acl.sty
+!paper.tex
+!paper.bib
+!paper.bbl
+!figs/

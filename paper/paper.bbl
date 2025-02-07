@@ -1,0 +1,394 @@
+\begin{thebibliography}{53}
+\providecommand{\natexlab}[1]{#1}
+
+\bibitem[{Agarwal et~al.(2021)Agarwal, Chakraborti, Fu, Gros, Lin, Maene,
+  Talamadupula, Teng, and White}]{NL2CMD-Comp}
+Mayank Agarwal, Tathagata Chakraborti, Quchen Fu, David Gros, Xi~Victoria Lin,
+  Jaron Maene, Kartik Talamadupula, Zhongwei Teng, and Jules White. 2021.
+\newblock \href {https://proceedings.mlr.press/v133/agarwal21b.html} {Neurips
+  2020 nlc2cmd competition: Translating natural language to bash commands}.
+\newblock In \emph{Proceedings of the NeurIPS 2020 Competition and
+  Demonstration Track}, volume 133 of \emph{Proceedings of Machine Learning
+  Research}, pages 302--324. PMLR.
+
+\bibitem[{Aggarwal et~al.(2024)Aggarwal, Chatterjee, Dai, Mohapatra,
+  Paulovicks, Blancett, and De~Magalhaes}]{codesift}
+Pooja Aggarwal, Oishik Chatterjee, Ting Dai, Prateeti Mohapatra, Brent
+  Paulovicks, Brad Blancett, and Arthur De~Magalhaes. 2024.
+\newblock \href {https://doi.org/10.1109/CLOUD62652.2024.00052} {{ CodeSift: An
+  LLM-Based Reference-Less Framework for Automatic Code Validation }}.
+\newblock In \emph{2024 IEEE 17th International Conference on Cloud Computing
+  (CLOUD)}, pages 404--410, Los Alamitos, CA, USA. IEEE Computer Society.
+
+\bibitem[{Alves et~al.(2023)Alves, Guerreiro, Alves, Pombal, Rei, de~Souza,
+  Colombo, and Martins}]{icl}
+Duarte Alves, Nuno Guerreiro, Jo{\~a}o Alves, Jos{\'e} Pombal, Ricardo Rei,
+  Jos{\'e} de~Souza, Pierre Colombo, and Andre Martins. 2023.
+\newblock \href {https://doi.org/10.18653/v1/2023.findings-emnlp.744} {Steering
+  large language models for machine translation with finetuning and in-context
+  learning}.
+\newblock In \emph{Findings of the Association for Computational Linguistics:
+  EMNLP 2023}, pages 11127--11148, Singapore. Association for Computational
+  Linguistics.
+
+\bibitem[{Bharadwaj et~al.(2022)Bharadwaj, Shevade, and Carpuat}]{AST}
+Shikhar Bharadwaj, Shirish Shevade, and Marine Carpuat. 2022.
+\newblock \href {https://doi.org/10.18653/v1/2022.naacl-main.230} {Efficient
+  constituency tree based encoding for natural language to bash translation}.
+\newblock In \emph{Proceedings of the 2022 Conference of the North American
+  Chapter of the Association for Computational Linguistics: Human Language
+  Technologies}, pages 3159--3168, Seattle, United States. Association for
+  Computational Linguistics.
+
+\bibitem[{Blum and Bresnahan(2021)}]{linux_bible}
+Richard Blum and Christine Bresnahan. 2021.
+\newblock \emph{Linux Command Line and Shell Scripting Bible}.
+\newblock Wiley.
+
+\bibitem[{Brown et~al.(2020)Brown, Mann, Ryder, Subbiah, Kaplan, Dhariwal,
+  Neelakantan, Shyam, Sastry, Askell, Agarwal, Herbert-Voss, Krueger, Henighan,
+  Child, Ramesh, Ziegler, Wu, Winter, Hesse, Chen, Sigler, Litwin, Gray, Chess,
+  Clark, Berner, McCandlish, Radford, Sutskever, and Amodei}]{gpt3}
+Tom Brown, Benjamin Mann, Nick Ryder, Melanie Subbiah, Jared~D Kaplan, Prafulla
+  Dhariwal, Arvind Neelakantan, Pranav Shyam, Girish Sastry, Amanda Askell,
+  Sandhini Agarwal, Ariel Herbert-Voss, Gretchen Krueger, Tom Henighan, Rewon
+  Child, Aditya Ramesh, Daniel Ziegler, Jeffrey Wu, Clemens Winter, Chris
+  Hesse, Mark Chen, Eric Sigler, Mateusz Litwin, Scott Gray, Benjamin Chess,
+  Jack Clark, Christopher Berner, Sam McCandlish, Alec Radford, Ilya Sutskever,
+  and Dario Amodei. 2020.
+\newblock \href
+  {https://proceedings.neurips.cc/paper_files/paper/2020/file/1457c0d6bfcb4967418bfb8ac142f64a-Paper.pdf}
+  {Language models are few-shot learners}.
+\newblock In \emph{Advances in Neural Information Processing Systems},
+  volume~33, pages 1877--1901. Curran Associates, Inc.
+
+\bibitem[{Cassano et~al.(2023)Cassano, Gouwar, Nguyen, Nguyen, Phipps-Costin,
+  Pinckney, Yee, Zi, Anderson, Feldman, Guha, Greenberg, and Jangda}]{multiple}
+Federico Cassano, John Gouwar, Daniel Nguyen, Sydney Nguyen, Luna
+  Phipps-Costin, Donald Pinckney, Ming-Ho Yee, Yangtian Zi, Carolyn~Jane
+  Anderson, Molly~Q Feldman, Arjun Guha, Michael Greenberg, and Abhinav Jangda.
+  2023.
+\newblock \href {https://doi.org/10.1109/TSE.2023.3267446} {{ MultiPL-E: A
+  Scalable and Polyglot Approach to Benchmarking Neural Code Generation }}.
+\newblock \emph{IEEE Transactions on Software Engineering}, 49(07):3675--3691.
+
+\bibitem[{Chatterjee et~al.(2024)Chatterjee, Aggarwal, Samanta, Dai, Mohapatra,
+  Kar, Mahindru, Barbieri, Postea, Blancett, and Magalhaes}]{scriptsmith}
+Oishik Chatterjee, Pooja Aggarwal, Suranjana Samanta, Ting Dai, Prateeti
+  Mohapatra, Debanjana Kar, Ruchi Mahindru, Steve Barbieri, Eugen Postea, Brad
+  Blancett, and Arthur~De Magalhaes. 2024.
+\newblock \href {https://arxiv.org/abs/2409.17166} {Scriptsmith: A unified llm
+  framework for enhancing it operations via automated bash script generation,
+  assessment, and refinement}.
+\newblock \emph{Preprint}, arXiv:2409.17166.
+
+\bibitem[{Chen et~al.(2024)Chen, Guo, Jia, Zeng, Wang, Xu, Wu, Wang, Gao, Wang,
+  Ye, and Zhang}]{codecorrectness}
+Liguo Chen, Qi~Guo, Hongrui Jia, Zhengran Zeng, Xin Wang, Yijiang Xu, Jian Wu,
+  Yidong Wang, Qing Gao, Jindong Wang, Wei Ye, and Shikun Zhang. 2024.
+\newblock \href {https://arxiv.org/abs/2408.16498} {A survey on evaluating
+  large language models in code generation tasks}.
+\newblock \emph{Preprint}, arXiv:2408.16498.
+
+\bibitem[{Chon et~al.(2024)Chon, Lee, Yeo, and Lee}]{funccorrectenough}
+Heejae Chon, Seonghyeon Lee, Jinyoung Yeo, and Dongha Lee. 2024.
+\newblock \href {https://arxiv.org/abs/2408.14504} {Is functional correctness
+  enough to evaluate code language models? exploring diversity of generated
+  codes}.
+\newblock \emph{Preprint}, arXiv:2408.14504.
+
+\bibitem[{Churchill et~al.(2019)Churchill, Padon, Sharma, and
+  Aiken}]{undecided}
+Berkeley Churchill, Oded Padon, Rahul Sharma, and Alex Aiken. 2019.
+\newblock \href {https://doi.org/10.1145/3314221.3314596} {Semantic program
+  alignment for equivalence checking}.
+\newblock In \emph{Proceedings of the 40th ACM SIGPLAN Conference on
+  Programming Language Design and Implementation}, PLDI 2019, pages 1027--1040,
+  New York, NY, USA. Association for Computing Machinery.
+
+\bibitem[{Fu et~al.(2023)Fu, Teng, Georgaklis, White, and Schmidt}]{NL2CMD}
+Quchen Fu, Zhongwei Teng, Marco Georgaklis, Jules White, and Douglas Schmidt.
+  2023.
+\newblock \href {https://doi.org/10.13052/jmltapissn.2023.002} {Nl2cmd: An
+  updated workflow for natural language to bash commands translation}.
+\newblock \emph{Journal of Machine Learning Theory, Applications and Practice},
+  1.
+
+\bibitem[{Fu et~al.(2021)Fu, Teng, White, and Schmidt}]{Magnum}
+Quchen Fu, Zhongwei Teng, Jules White, and Douglas~C. Schmidt. 2021.
+\newblock \href {https://doi.org/10.1109/ICMLA52953.2021.00202} {A
+  transformer-based approach for translating natural language to bash
+  commands}.
+\newblock In \emph{2021 20th IEEE International Conference on Machine Learning
+  and Applications (ICMLA)}, pages 1245--1248.
+
+\bibitem[{Geng et~al.(2023)Geng, Josifoski, Peyrard, and West}]{constrained}
+Saibo Geng, Martin Josifoski, Maxime Peyrard, and Robert West. 2023.
+\newblock \href {https://doi.org/10.18653/v1/2023.emnlp-main.674}
+  {Grammar-constrained decoding for structured {NLP} tasks without finetuning}.
+\newblock In \emph{Proceedings of the 2023 Conference on Empirical Methods in
+  Natural Language Processing}, pages 10932--10952, Singapore. Association for
+  Computational Linguistics.
+
+\bibitem[{Gros(2019)}]{AInix}
+David Gros. 2019.
+\newblock \href
+  {http://www.cs.utexas.edu/users/ai-labpub-view.php?PubID=127814} {Ainix: An
+  open platform for natural language interfaces to shell commands}.
+\newblock Undergraduate Honors Thesis, Computer Science Department, University
+  of Texas at Austin.
+
+\bibitem[{Hu et~al.(2021)Hu, Shen, Wallis, Allen-Zhu, Li, Wang, Wang, and
+  Chen}]{lora}
+Edward~J. Hu, Yelong Shen, Phillip Wallis, Zeyuan Allen-Zhu, Yuanzhi Li, Shean
+  Wang, Lu~Wang, and Weizhu Chen. 2021.
+\newblock \href {https://arxiv.org/abs/2106.09685} {Lora: Low-rank adaptation
+  of large language models}.
+\newblock \emph{Preprint}, arXiv:2106.09685.
+
+\bibitem[{Huang et~al.(2022)Huang, Wang, Zhang, Yan, Cui, Inala, Clement, and
+  Duan}]{ExeDS}
+Junjie Huang, Chenglong Wang, Jipeng Zhang, Cong Yan, Haotian Cui,
+  Jeevana~Priya Inala, Colin Clement, and Nan Duan. 2022.
+\newblock \href {https://aclanthology.org/2022.dash-1.5/} {Execution-based
+  evaluation for data science code generation models}.
+\newblock In \emph{Proceedings of the Fourth Workshop on Data Science with
+  Human-in-the-Loop (Language Advances)}, pages 28--36, Abu Dhabi, United Arab
+  Emirates (Hybrid). Association for Computational Linguistics.
+
+\bibitem[{Hui et~al.(2024)Hui, Yang, Cui, Yang, Liu, Zhang, Liu, Zhang, Yu,
+  Dang et~al.}]{qwen}
+Binyuan Hui, Jian Yang, Zeyu Cui, Jiaxi Yang, Dayiheng Liu, Lei Zhang, Tianyu
+  Liu, Jiajun Zhang, Bowen Yu, Kai Dang, et~al. 2024.
+\newblock Qwen2. 5-coder technical report.
+\newblock \emph{arXiv preprint arXiv:2409.12186}.
+
+\bibitem[{Jenson and Liu(2022)}]{finetune}
+Daniel Jenson and Yingxiao Liu. 2022.
+\newblock Translating natural language to bash commands using deep neural
+  networks.
+\newblock
+  \url{https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1224/reports/custom_116997097.pdf}.
+\newblock Accessed: 2024-10-09.
+
+\bibitem[{Joel et~al.(2024)Joel, Wu, and Fard}]{low-resource}
+Sathvik Joel, Jie~JW Wu, and Fatemeh~H. Fard. 2024.
+\newblock \href {https://arxiv.org/abs/2410.03981} {A survey on llm-based code
+  generation for low-resource and domain-specific programming languages}.
+\newblock \emph{Preprint}, arXiv:2410.03981.
+
+\bibitem[{Joshi(2024)}]{bash-assistant}
+Anish Joshi. 2024.
+\newblock Bash scripting assistant.
+\newblock \url{https://github.com/AnishJoshi13/Bash-Scripting-Assistant}.
+\newblock Accessed: 2024-10-09.
+
+\bibitem[{Kamara(2016)}]{bashlex}
+Idan Kamara. 2016.
+\newblock bashlex: Python parser for bash.
+\newblock \url{https://github.com/idank/bashlex}.
+\newblock Accessed: 2024-09-09.
+
+\bibitem[{Kerrisk(2024)}]{manpages}
+Michael Kerrisk. 2024.
+\newblock Linux manual pages.
+\newblock \url{https://man7.org/linux/man-pages/index.html}.
+\newblock Accessed: 2024-09-09.
+
+\bibitem[{Krishna et~al.(2024)Krishna, Speck, Voke, and Herenu}]{tldr}
+K.B.Dharun Krishna, Sebastiaan Speck, Owen Voke, and Darío Herenu. 2024.
+\newblock Tldr: Collaborative cheatsheets for console commands.
+\newblock \url{https://github.com/tldr-pages/tldr}.
+\newblock Accessed: 2024-10-09.
+
+\bibitem[{Lee et~al.(2024)Lee, Shakir, Koenig, and Lipp}]{mxbai}
+Sean Lee, Aamir Shakir, Darius Koenig, and Julius Lipp. 2024.
+\newblock \href {https://www.mixedbread.ai/blog/mxbai-embed-large-v1} {Open
+  source strikes bread - new fluffy embeddings model}.
+
+\bibitem[{Lin(2017)}]{Tellina}
+Xi~Victoria Lin. 2017.
+\newblock \href {https://api.semanticscholar.org/CorpusID:3809743} {Program
+  synthesis from natural language using recurrent neural networks}.
+
+\bibitem[{Lin et~al.(2018)Lin, Wang, Zettlemoyer, and Ernst}]{NL2Bash}
+Xi~Victoria Lin, Chenglong Wang, Luke Zettlemoyer, and Michael~D. Ernst. 2018.
+\newblock \href {https://aclanthology.org/L18-1491/} {{NL}2{B}ash: A corpus and
+  semantic parser for natural language interface to the linux operating
+  system}.
+\newblock In \emph{Proceedings of the Eleventh International Conference on
+  Language Resources and Evaluation ({LREC} 2018)}, Miyazaki, Japan. European
+  Language Resources Association (ELRA).
+
+\bibitem[{Llama(2024)}]{llama3}
+Meta Llama. 2024.
+\newblock \href {https://arxiv.org/abs/2407.21783} {The llama 3 herd of
+  models}.
+\newblock \emph{Preprint}, arXiv:2407.21783.
+
+\bibitem[{Lloyd et~al.(2024)Lloyd, Lim, and Desai}]{warp}
+Zach Lloyd, Michelle Lim, and Aloke Desai. 2024.
+\newblock Warp: Your terminal, reimagined.
+\newblock \url{https://www.warp.dev/}.
+\newblock Accessed: 2024-09-09.
+
+\bibitem[{Mali(2023)}]{dataset4}
+Yogesh Mali. 2023.
+\newblock \href {https://huggingface.co/datasets/yogeshm/text_to_bash}
+  {text\_to\_bash}.
+
+\bibitem[{Maveli et~al.(2024)Maveli, Vergari, and Cohen}]{lackunderstanding}
+Nickil Maveli, Antonio Vergari, and Shay~B. Cohen. 2024.
+\newblock \href {https://arxiv.org/abs/2408.11081} {What can large language
+  models capture about code functional equivalence?}
+\newblock \emph{Preprint}, arXiv:2408.11081.
+
+\bibitem[{Merkel(2014)}]{docker}
+Dirk Merkel. 2014.
+\newblock Docker: lightweight linux containers for consistent development and
+  deployment.
+\newblock \emph{Linux journal}, 2014(239):2.
+
+\bibitem[{Microsoft(2024)}]{msai}
+Microsoft. 2024.
+\newblock Microsoft ai shell.
+\newblock
+  \url{https://learn.microsoft.com/en-us/powershell/utility-modules/aishell/overview?view=ps-modules}.
+
+\bibitem[{Naik(2024)}]{limitations}
+Atharva Naik. 2024.
+\newblock \href {https://arxiv.org/abs/2405.01580} {On the limitations of
+  embedding based methods for measuring functional correctness for code
+  generation}.
+\newblock \emph{Preprint}, arXiv:2405.01580.
+
+\bibitem[{OpenAI(2024)}]{gpt4}
+OpenAI. 2024.
+\newblock \href {https://arxiv.org/abs/2303.08774} {Gpt-4 technical report}.
+\newblock \emph{Preprint}, arXiv:2303.08774.
+
+\bibitem[{Papineni et~al.(2002)Papineni, Roukos, Ward, and Zhu}]{bleu}
+Kishore Papineni, Salim Roukos, Todd Ward, and Wei-Jing Zhu. 2002.
+\newblock \href {https://doi.org/10.3115/1073083.1073135} {Bleu: a method for
+  automatic evaluation of machine translation}.
+\newblock In \emph{Proceedings of the 40th Annual Meeting on Association for
+  Computational Linguistics}, ACL '02, pages 311--318, USA. Association for
+  Computational Linguistics.
+
+\bibitem[{Ramesh(2022)}]{dataset2}
+T.~Ramesh. 2022.
+\newblock \href {https://huggingface.co/datasets/TRamesh2/NL2CMD} {Nl2cmd}.
+\newblock Accessed: 2024-08-20.
+
+\bibitem[{Ramey and Fox(2024)}]{Bash}
+Chet Ramey and Brian Fox. 2024.
+\newblock \emph{Bash: GNU Project's Shell}.
+\newblock Accessed: 2024-09-09.
+
+\bibitem[{Romit(2024)}]{dataset3}
+Romit. 2024.
+\newblock \href {https://huggingface.co/datasets/Romit2004/LinuxCommands}
+  {Linuxcommands}.
+\newblock Accessed: 2024-08-20.
+
+\bibitem[{Rosenkilde et~al.(2024)Rosenkilde, Rothenberg, and Feller}]{copilot}
+Johan Rosenkilde, Matt Rothenberg, and Andy Feller. 2024.
+\newblock Github copilot for cli.
+\newblock \url{https://githubnext.com/projects/copilot-cli/}.
+
+\bibitem[{Sadykov(2024)}]{shell-gpt}
+Farkhod Sadykov. 2024.
+\newblock Shellgpt: A command-line productivity tool powered by ai large
+  language models like gpt-4.
+\newblock \url{https://github.com/TheR1D/shell_gpt}.
+\newblock Accessed: 2024-09-09.
+
+\bibitem[{Sammet(1966)}]{Sammet}
+Jean~E. Sammet. 1966.
+\newblock \href {https://doi.org/10.1145/365230.365274} {The use of english as
+  a programming language}.
+\newblock \emph{Commun. ACM}, 9(3):228--230.
+
+\bibitem[{Services(2024)}]{cwai}
+Amazon~Web Services. 2024.
+\newblock Amazon codewhisperer natural language to bash translation.
+\newblock
+  \url{https://docs.aws.amazon.com/codewhisperer/latest/userguide/command-line-conversation.html}.
+
+\bibitem[{Shaikhelislamov et~al.(2024)Shaikhelislamov, Drobyshevskiy, and
+  Belevantsev}]{codepatch}
+Danil Shaikhelislamov, Mikhail Drobyshevskiy, and Andrey Belevantsev. 2024.
+\newblock \href
+  {https://genai-evaluation-kdd2024.github.io/genai-evalution-kdd2024/assets/papers/GenAI_Evaluation_KDD2024_paper_25.pdf}
+  {Codepatchllm: Configuring code generation using a static analyzer}.
+
+\bibitem[{Shi et~al.(2023)Shi, Jiang, Xu, Liang, Xiao, and Wang}]{ShellGPT}
+Jie Shi, Sihang Jiang, Bo~Xu, Jiaqing Liang, Yanghua Xiao, and Wei Wang. 2023.
+\newblock \href {https://doi.org/10.1109/ISSRE59848.2023.00082} {Shellgpt:
+  Generative pre-trained transformer model for shell language understanding}.
+\newblock In \emph{2023 IEEE 34th International Symposium on Software
+  Reliability Engineering (ISSRE)}, pages 671--682.
+
+\bibitem[{Shotts(2019)}]{linux_cli_book}
+William~E Shotts. 2019.
+\newblock \emph{The Linux Command Line: A Complete Introduction}.
+\newblock No Starch Press.
+
+\bibitem[{Song et~al.(2024)Song, Lothritz, Tang, Bissyand{\'e}, and
+  Klein}]{tsed}
+Yewei Song, Cedric Lothritz, Xunzhu Tang, Tegawend{\'e} Bissyand{\'e}, and
+  Jacques Klein. 2024.
+\newblock \href {https://doi.org/10.18653/v1/2024.acl-short.3} {Revisiting code
+  similarity evaluation with abstract syntax tree edit distance}.
+\newblock In \emph{Proceedings of the 62nd Annual Meeting of the Association
+  for Computational Linguistics (Volume 2: Short Papers)}, pages 38--46,
+  Bangkok, Thailand. Association for Computational Linguistics.
+
+\bibitem[{Sparck~Jones(1988)}]{tfidf}
+Karen Sparck~Jones. 1988.
+\newblock \emph{A statistical interpretation of term specificity and its
+  application in retrieval}, pages 132--142.
+\newblock Taylor Graham Publishing, GBR.
+
+\bibitem[{Vijayaraghavan et~al.(2024)Vijayaraghavan, Shi, Ambrogio, Mackin,
+  Nitsure, Beymer, and Degan}]{vhdl}
+Prashanth Vijayaraghavan, Luyao Shi, Stefano Ambrogio, Charles Mackin, Apoorva
+  Nitsure, David Beymer, and Ehsan Degan. 2024.
+\newblock \href {https://arxiv.org/abs/2406.04379} {Vhdl-eval: A framework for
+  evaluating large language models in vhdl code generation}.
+\newblock \emph{Preprint}, arXiv:2406.04379.
+
+\bibitem[{Vo et~al.(2024)Vo, Paulovicks, and Sheinin}]{exec_based_eval}
+Ngoc Phuoc~An Vo, Brent Paulovicks, and Vadim Sheinin. 2024.
+\newblock \href {https://arxiv.org/abs/2405.06807} {Execution-based evaluation
+  of natural language to bash and powershell for incident remediation}.
+\newblock \emph{Preprint}, arXiv:2405.06807.
+
+\bibitem[{Yang et~al.(2023)Yang, Prabhakar, Narasimhan, and Yao}]{InterCode}
+John Yang, Akshara Prabhakar, Karthik Narasimhan, and Shunyu Yao. 2023.
+\newblock Intercode: standardizing and benchmarking interactive coding with
+  execution feedback.
+\newblock In \emph{Proceedings of the 37th International Conference on Neural
+  Information Processing Systems}, NIPS '23, Red Hook, NY, USA. Curran
+  Associates Inc.
+
+\bibitem[{Zhu et~al.(2024{\natexlab{a}})Zhu, Liargkovas, Greenberg, and
+  Kallas}]{try}
+Ezri Zhu, Georgios Liargkovas, Michael Greenberg, and Konstantinos Kallas.
+  2024{\natexlab{a}}.
+\newblock try utility.
+\newblock \url{https://github.com/binpash/try}.
+\newblock Accessed: 2024-09-25.
+
+\bibitem[{Zhu et~al.(2024{\natexlab{b}})Zhu, Liu, Dong, Xu, Huang, Kong, Chen,
+  and Li}]{machinetranslation}
+Wenhao Zhu, Hongyi Liu, Qingxiu Dong, Jingjing Xu, Shujian Huang, Lingpeng
+  Kong, Jiajun Chen, and Lei Li. 2024{\natexlab{b}}.
+\newblock \href {https://doi.org/10.18653/v1/2024.findings-naacl.176}
+  {Multilingual machine translation with large language models: Empirical
+  results and analysis}.
+\newblock In \emph{Findings of the Association for Computational Linguistics:
+  NAACL 2024}, pages 2765--2781, Mexico City, Mexico. Association for
+  Computational Linguistics.
+
+\end{thebibliography}
