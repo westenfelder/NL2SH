@@ -2,10 +2,11 @@
 
 ## 👋 Overview
 This repository contains code for the 2025 NAACL paper:  
-[LLM-Supported Natural Language to Bash Translation]()
+[LLM-Supported Natural Language to Bash Translation](https://arxiv.org/abs/2502.06858)
 
 ## 🚀 Quick Start
-Note: Our code has only been tested on Ubuntu 20.04 with Python 3.10.
+Note: Our code has only been tested on Ubuntu 20.04 with Python 3.10 and PyTorch 2.6.0+cu124.
+
 - Install Docker Engine [(Instructions)](https://docs.docker.com/engine/install/)  
 - Configure Docker for non-sudo users [(Instructions)](https://docs.docker.com/engine/install/linux-postinstall/) 
 - Install Ollama
@@ -48,3 +49,17 @@ Our datasets, benchmark code and fine-tuned models are available at these links:
   - [Llama-3.2-1B-Instruct-NL2SH](https://huggingface.co/westenfelder/Llama-3.2-1B-Instruct-NL2SH)
   - [Llama-3.2-3B-Instruct-NL2SH](https://huggingface.co/westenfelder/Llama-3.2-3B-Instruct-NL2SH)
   - [Llama-3.1-8B-Instruct-NL2SH](https://huggingface.co/westenfelder/Llama-3.1-8B-Instruct-NL2SH)
+
+## ✍️ Citation
+If you find our work helpful, please cite:
+```
+@misc{westenfelder2025llmsupportednaturallanguagebash,
+      title={LLM-Supported Natural Language to Bash Translation}, 
+      author={Finnian Westenfelder and Erik Hemberg and Miguel Tulla and Stephen Moskal and Una-May O'Reilly and Silviu Chiricescu},
+      year={2025},
+      eprint={2502.06858},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2502.06858}, 
+}
+```
