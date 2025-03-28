@@ -2,7 +2,8 @@
 
 ## 👋 Overview
 This repository contains code for the 2025 NAACL paper:  
-[LLM-Supported Natural Language to Bash Translation](https://arxiv.org/abs/2502.06858)
+[LLM-Supported Natural Language to Bash Translation](https://arxiv.org/abs/2502.06858)  
+**TLDR:** Large language models (LLMs) are unreliable at translating natural language to Bash commands (NL2SH). We present methods to measure and improve the NL2SH performance of LLMs.
 
 ## 🚀 Quick Start
 Note: Our code has only been tested on Ubuntu 20.04 with Python 3.10 and PyTorch 2.6.0+cu124.
