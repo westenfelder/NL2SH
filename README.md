@@ -3,9 +3,32 @@
 ## 👋 Overview
 This repository contains code for the 2025 NAACL paper:  
 [LLM-Supported Natural Language to Bash Translation](https://arxiv.org/abs/2502.06858)  
+
 **TLDR:** Large language models (LLMs) are unreliable at translating natural language to Bash commands (NL2SH). We present methods to measure and improve the NL2SH performance of LLMs.
 
 ## 🚀 Quick Start
+1. Install Ollama
+```bash
+curl -fsSL https://ollama.com/install.sh | sh
+```
+2. Download our model
+```bash
+ollama pull westenfelder/NL2SH
+```
+3. Add a shortcut function to .bashrc
+```bash
+nlsh() {
+  local prompt="$1"
+  curl -s localhost:11434/api/generate -d "{\"model\": \"westenfelder/NL2SH\", \"prompt\": \"$prompt\", \"stream\": false}" | jq -r '.response'
+}
+```
+4. Query the model
+```bash
+nlsh "print num python files in the top level of the current dir"
+```
+5. Run the commands at your own risk!
+
+## ⚙️ Full Setup
 Note: Our code has only been tested on Ubuntu 20.04 with Python 3.10 and PyTorch 2.6.0+cu124.
 
 - Install Docker Engine [(Instructions)](https://docs.docker.com/engine/install/)  
@@ -25,9 +48,9 @@ source nl2sh_venv/bin/activate
 pip install -r requirements.txt
 python3 -m ipykernel install --user --name=nl2sh_venv --display-name="nl2sh_venv"
 ```
-- Run example.ipynb
+- Start by running example.ipynb
 
-## 🛠️ Repo
+## 🛠️ Repo Structure
 - **paper/** - Latex source for our paper
 - **example.ipynb** - Starter code
 - **model_comparison.ipynb** - Reproduce our best model (+ parser) results
