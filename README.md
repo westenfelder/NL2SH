@@ -2,7 +2,7 @@
 
 ## 👋 Overview
 This repository contains code for the 2025 NAACL paper:  
-[LLM-Supported Natural Language to Bash Translation](https://arxiv.org/abs/2502.06858)  
+[LLM-Supported Natural Language to Bash Translation](https://aclanthology.org/2025.naacl-long.555/)  
 
 **TLDR:** Large language models (LLMs) are unreliable at translating natural language to Bash commands (NL2SH). We present methods to measure and improve the NL2SH performance of LLMs.
 
@@ -58,7 +58,7 @@ python3 -m ipykernel install --user --name=nl2sh_venv --display-name="nl2sh_venv
 - **feh_comparison.ipynb** - Reproduce our FEH comparison results
 
 ## 🔗 Links
-Our datasets, benchmark code and fine-tuned models are available at these links:
+Our datasets, benchmark code, and fine-tuned models are available at these links:
 - Datasets
   - [NL2SH-ALFA Dataset](https://huggingface.co/datasets/westenfelder/NL2SH-ALFA)
   - [InterCode-Corrections Dataset](https://huggingface.co/datasets/westenfelder/InterCode-Corrections)
@@ -77,13 +77,23 @@ Our datasets, benchmark code and fine-tuned models are available at these links:
 ## ✍️ Citation
 If you find our work helpful, please cite:
 ```
-@misc{westenfelder2025llmsupportednaturallanguagebash,
-      title={LLM-Supported Natural Language to Bash Translation}, 
-      author={Finnian Westenfelder and Erik Hemberg and Miguel Tulla and Stephen Moskal and Una-May O'Reilly and Silviu Chiricescu},
-      year={2025},
-      eprint={2502.06858},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2502.06858}, 
+@inproceedings{westenfelder-etal-2025-llm,
+    title = "{LLM}-Supported Natural Language to Bash Translation",
+    author = "Westenfelder, Finnian  and
+      Hemberg, Erik  and
+      Moskal, Stephen  and
+      O{'}Reilly, Una-May  and
+      Chiricescu, Silviu",
+    editor = "Chiruzzo, Luis  and
+      Ritter, Alan  and
+      Wang, Lu",
+    booktitle = "Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers)",
+    month = apr,
+    year = "2025",
+    address = "Albuquerque, New Mexico",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.naacl-long.555/",
+    pages = "11135--11147",
+    ISBN = "979-8-89176-189-6"
 }
 ```
