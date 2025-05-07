@@ -1,12 +1,8 @@
 *
-!paper/
 !.gitignore
-!example.ipynb
-!feh_comparison.ipynb
-!finetuned_model_comparison.ipynb
 !LICENSE.txt
-!model_comparison.ipynb
 !README.md
-!requirements.txt
-!logo.png
-!poster.pdf
+
+!paper/
+!presentation/
+!code/
