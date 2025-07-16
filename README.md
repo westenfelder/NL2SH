@@ -6,6 +6,12 @@ This repository contains code for the 2025 NAACL paper:
 
 **TLDR:** Large language models (LLMs) are unreliable at translating natural language to Bash commands (NL2SH). We present methods to measure and improve the NL2SH performance of LLMs.
 
+## ‼️Updates
+- **July 2025** - Check out [Terminal Bench](https://github.com/laude-institute/terminal-bench) for a more comprehensive benchmark!
+- **June 2025** - Try [OpenAI Codex](https://github.com/openai/codex), [Claude Code](https://github.com/anthropics/claude-code), or [Gemini CLI](https://github.com/google-gemini/gemini-cli) for more powerful terminal-based agents.
+- **May 2025** - Added NAACL presentation resources.
+- **February 2025** - Public release.
+
 ## 🚀 Quick Start
 1. Install Ollama
 ```bash
@@ -24,11 +30,11 @@ nlsh() {
 ```
 4. Query the model
 ```bash
-nlsh "print num python files in the top level of the current dir"
+nlsh "ping localhost with 1 packet"
 ```
 5. Run the commands at your own risk!
 
-## ⚙️ Full Setup
+## 🛠️ Full Setup
 Note: Our code has only been tested on Ubuntu 20.04 with Python 3.10 and PyTorch 2.6.0+cu124.
 
 - Install Docker Engine [(Instructions)](https://docs.docker.com/engine/install/)  
@@ -50,7 +56,7 @@ python3 -m ipykernel install --user --name=nl2sh_venv --display-name="nl2sh_venv
 ```
 - Start by running example.ipynb
 
-## 🛠️ Repo Structure
+## 🌳 Repo Structure
 - **paper/** - Latex source for our paper
 - **presentation/** - Slides and poster
 - **code/example.ipynb** - Starter code
