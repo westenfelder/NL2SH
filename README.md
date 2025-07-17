@@ -63,6 +63,7 @@ python3 -m ipykernel install --user --name=nl2sh_venv --display-name="nl2sh_venv
 - **code/model_comparison.ipynb** - Reproduce our best model (+ parser) results
 - **code/finetuned_model_comparison.ipynb** - Reproduce our fine-tuned model results
 - **code/feh_comparison.ipynb** - Reproduce our FEH comparison results
+- **code/finetune/** - Full fine-tuning (not LoRA) code
 
 ## 🔗 Links
 Our datasets, benchmark code, and fine-tuned models are available at these links:

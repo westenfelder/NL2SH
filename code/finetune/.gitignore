@@ -1,0 +1,6 @@
+*
+!.gitignore
+!README.md
+!requirements.txt
+!finetune.py
+!Modelfile

@@ -1,0 +1,7 @@
+torch
+numpy
+wandb
+datasets
+transformers
+accelerate
+huggingface-hub
